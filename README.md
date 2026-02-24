@@ -1,2 +1,2 @@
 # history-tests
-Данные и расчёты исследования о тестах по истории.
+Data and calculations from a study on history tests.
